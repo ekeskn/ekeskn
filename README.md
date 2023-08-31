@@ -1,6 +1,4 @@
-# Hello, Welcome to My GitHub Page! 👋
-
-I'm Ege, a software developer. 
+I'm Ege 👋, a software developer. 
 ---
 
 ## About Me
