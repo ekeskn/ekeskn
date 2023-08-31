@@ -13,8 +13,8 @@ I'm Ege, a software developer.
 
 Here are some of my projects:
 
-- [fitApp]([link](https://github.com/ekeskn/fitApp))
-- [fakeStore]([link](https://github.com/ekeskn/fakestore))
+- [fitApp](https://github.com/ekeskn/fitApp)
+- [fakeStore](https://github.com/ekeskn/fakestore)
 
 Feel free to explore these projects in more detail by clicking on the provided links.
 
