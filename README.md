@@ -1,4 +1,4 @@
-I'm Ege 👋, a mobile developer. 
+I'm Ege 👋
 ---
 
 ## About Me
