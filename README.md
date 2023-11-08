@@ -10,9 +10,10 @@ I'm Ege 👋
 ## Projects
 
 Here are some of my projects:
-
+- [handTracker](https://github.com/ekeskn/handTracker)
 - [fitApp](https://github.com/ekeskn/fitApp)
 - [fakeStore](https://github.com/ekeskn/fakestore)
+  
 
 Feel free to explore these projects in more detail by clicking on the provided links.
 
