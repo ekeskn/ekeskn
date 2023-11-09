@@ -10,10 +10,8 @@ I'm Ege 👋
 ## Projects
 
 Here are some of my projects:
-- [[handTracker](https://img.shields.io/badge/HandTracker-202242
-)]()
-    <a href="https://github.com/ekeskn/handTracker"><img alt="HTML" src="https://img.shields.io/badge/HandTracker-202242
-"></a>
+- [handTracker](https://img.shields.io/badge/HandTracker-202242)()
+    <a href="https://github.com/ekeskn/handTracker"><img alt="HandTracker" src="https://img.shields.io/badge/HandTracker-202242"></a>
 - [fitApp](https://github.com/ekeskn/fitApp)
 - [fakeStore](https://github.com/ekeskn/fakestore)
   
