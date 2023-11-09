@@ -11,7 +11,9 @@ I'm Ege 👋
 
 Here are some of my projects:
 - [[handTracker](https://img.shields.io/badge/HandTracker-202242
-)](https://github.com/ekeskn/handTracker)
+)]()
+    <a href="https://github.com/ekeskn/handTracker"><img alt="HTML" src="https://img.shields.io/badge/HandTracker-202242
+"></a>
 - [fitApp](https://github.com/ekeskn/fitApp)
 - [fakeStore](https://github.com/ekeskn/fakestore)
   
