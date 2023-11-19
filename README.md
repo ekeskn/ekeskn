@@ -13,6 +13,8 @@ Here are some of my projects:
 - <a href="https://github.com/ekeskn/handTracker"><img alt="HandTracker" src="https://img.shields.io/badge/HandTracker-202242"></a>
 - <a href="https://github.com/ekeskn/fitApp"><img alt="FitApp" src="https://img.shields.io/badge/fitApp-202242"></a>
 - <a href="https://github.com/ekeskn/fakestore"><img alt="fakeStore" src="https://img.shields.io/badge/fakeStore-202242"></a>
+- <a href="https://github.com/ekeskn/react-weather-app"><img alt="WeatherApp" src="https://img.shields.io/badge/WeatherApp-202242"></a>
+- <a href="https://github.com/ekeskn/react-todo-app"><img alt="ToDo" src="https://img.shields.io/badge/ToDo-202242"></a>
 
   
 
