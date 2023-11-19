@@ -63,4 +63,3 @@ Thank you for visiting my page! 😊
   
 </p>
 
-![](https://komarev.com/ghpvc/?username=ekeskn)
